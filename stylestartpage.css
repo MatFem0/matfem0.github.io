@@ -2,7 +2,7 @@
 :root {
   --background-color: white;
   --link-hover: #f1a8bb;
-  --link-heading: white;
+  --link-heading: #f1a8bb; 
   --background-glow: 0px 0px 30px white;
 }
 * {
