@@ -5,13 +5,14 @@
 body {
   background-color: rgb(10, 10, 10);
   position: center;
+  
   font-family: "Source Code Pro", monospace;
 }
 .linkz{
 	margin: auto;
 	text-align: center;
 	width: 100%;
-	
+	color: #f1a8cd;
 }
 .links {
   display: flex;
